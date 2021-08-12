@@ -20,3 +20,5 @@ or just:
 ```bash
 press_PageDown 16
 ```
+Note: after 2 minutes of using this code, i understood which this code is completely useless :)
+bye ;)
